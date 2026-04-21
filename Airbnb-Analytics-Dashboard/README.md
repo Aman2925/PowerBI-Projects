@@ -50,13 +50,12 @@ Dataset sourced from Maven Analytics Airbnb dataset:
 
 ## 📷 Dashboard Preview
 
-<img width="760" height="699" alt="Dashboard-pG1" src="https://github.com/user-attachments/assets/f40d8f2b-eb05-4c10-bd6e-8b3cc223dd9b" />
+<img width="760" height="577" alt="Dashboard-pg-1" src="https://github.com/user-attachments/assets/3da88064-dd93-4793-b4cf-6125e70574ac" />
 </br>
-<img width="760" height="577" alt="Dashboard-pg-2" src="https://github.com/user-attachments/assets/fb0ca7f9-5c59-425e-930a-4d63a69c5130" />
+<img width="758" height="576" alt="Pg-2" src="https://github.com/user-attachments/assets/5f0ab050-6b63-4c9c-a567-fd37d02e5f2f" />
 </br>
-<img width="760" height="565" alt="Dashboard-Pg3" src="https://github.com/user-attachments/assets/a41dbcdd-6b24-4233-ba12-99d34778c1a3" />
+<img width="760" height="565" alt="Dashboard-Pg3" src="https://github.com/user-attachments/assets/efab8c05-e851-41a4-b7cc-f736feb52202" />
 </br>
-
 ---
 
 ## 🚀 Outcome
