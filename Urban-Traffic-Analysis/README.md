@@ -8,6 +8,11 @@ A modern and interactive **Power BI dashboard** focused on analyzing urban traff
 
 Dataset Link: https://drive.google.com/drive/folders/1ZpvxL9D_hp4oW0QGpe0Rf7ChVWLBHxC-?usp=sharing
 
+--- 
+
+## 📂 Power BI Dashboard File
+
+PBIX File Link: https://drive.google.com/file/d/13jBAD8UnAwKT9CgfFrBnAZxGEmrJN6-2/view?usp=sharing
 
 # 📌 Project Overview
 
@@ -132,8 +137,6 @@ Urban-Traffic-Analysis/
 <img width="1000" height="563" alt="PAGE-3" src="https://github.com/user-attachments/assets/ca043ac4-70c4-40c6-91dd-43bfecf6623c" />
 
 </br>
-
-
 
 
 ---
