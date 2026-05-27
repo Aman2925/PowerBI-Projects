@@ -121,6 +121,9 @@ Urban-Traffic-Analysis/
 
 # 📷 Dashboard Preview
 
+<img width="1000" height="563" alt="PAGE-1" src="https://github.com/user-attachments/assets/f96d1eea-3d45-4397-8e30-4788141ea2eb" />
+
+
 ---
 
 # 💡 Skills Demonstrated
