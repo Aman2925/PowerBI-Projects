@@ -4,6 +4,11 @@ A modern and interactive **Power BI dashboard** focused on analyzing urban traff
 
 ---
 
+## 📂 Dataset
+
+Dataset Link: https://drive.google.com/drive/folders/1ZpvxL9D_hp4oW0QGpe0Rf7ChVWLBHxC-?usp=sharing
+
+
 # 📌 Project Overview
 
 The **Urban Traffic Analysis Dashboard** transforms raw transportation and traffic datasets into actionable insights using advanced data visualization techniques in Power BI.
