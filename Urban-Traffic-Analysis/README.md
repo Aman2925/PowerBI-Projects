@@ -123,6 +123,18 @@ Urban-Traffic-Analysis/
 
 <img width="1000" height="563" alt="PAGE-1" src="https://github.com/user-attachments/assets/f96d1eea-3d45-4397-8e30-4788141ea2eb" />
 
+</br>
+
+<img width="1000" height="563" alt="PAGE-2" src="https://github.com/user-attachments/assets/b4674b51-48dc-434f-8a70-726534a21d89" />
+
+</br>
+
+<img width="1000" height="563" alt="PAGE-3" src="https://github.com/user-attachments/assets/ca043ac4-70c4-40c6-91dd-43bfecf6623c" />
+
+</br>
+
+
+
 
 ---
 
