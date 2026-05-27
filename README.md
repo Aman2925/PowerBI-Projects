@@ -1,101 +1,137 @@
 # 📊 Data Analytics Portfolio – Power BI Projects
 
-Welcome to my Data Analytics Portfolio showcasing end-to-end projects focused on data cleaning, transformation, analysis, and interactive dashboard development using Power BI and Python.
+Welcome to my Data Analytics Portfolio showcasing end-to-end projects focused on data analysis, dashboard development, business intelligence, and interactive data visualization using Power BI, Python, and modern analytical techniques.
 
-These projects demonstrate practical problem-solving skills, business insight generation, and data storytelling through modern visualizations and analytical reporting.
+This portfolio highlights practical projects built to solve real-world business problems through data-driven insights, KPI reporting, and storytelling dashboards.
 
 ---
 
 # 🚀 Featured Projects
 
-## 🚦 Urban Traffic Analysis Dashboard
+---
 
-Developed an interactive Power BI dashboard to analyze urban traffic patterns, congestion trends, accident hotspots, and transportation efficiency.
+# 🚦 Urban Traffic Analysis Dashboard
 
-### Key Highlights:
-- Built dynamic KPI-driven dashboards
-- Analyzed traffic congestion and vehicle movement patterns
-- Identified accident-prone zones and peak traffic hours
-- Created interactive visualizations for smarter urban planning
-- Performed data transformation using Power Query and Python
+Designed and developed an interactive Power BI dashboard to analyze urban traffic behavior, congestion patterns, accident hotspots, and transportation efficiency for smarter city planning and operational analysis.
 
-### Skills Used:
+### 🔹 Key Highlights
+- Built advanced KPI-driven analytical dashboards
+- Monitored traffic congestion and vehicle movement trends
+- Identified high-risk accident-prone zones
+- Performed road utilization and traffic density analysis
+- Created interactive and visually engaging reports
+- Applied Power Query and DAX for data transformation and calculations
+
+### 🔹 Skills & Technologies
 - Power BI
 - DAX
 - Power Query
-- Python (Pandas, NumPy)
-- Data Visualization
+- Python
+- Data Modeling
 - Business Intelligence
+- Data Visualization
 
 ---
 
-## 🛒 Walmart Sales Dashboard
+# 📈 Google Trends Analysis Dashboard
 
-Analyzed retail sales data to uncover revenue trends, category performance, and regional insights.
+Developed a real-time Google Trends analytics dashboard using API-powered data integration to track keyword popularity, rising search topics, and trend performance over time.
 
-### Key Highlights:
-- Designed business-focused KPI dashboards
-- Identified top-performing categories and regions
-- Analyzed seasonal sales trends
-- Enabled data-driven decision-making through visual storytelling
+### 🔹 Key Highlights
+- Integrated Google Trends API for real-time data fetching
+- Built multi-page interactive dashboards
+- Analyzed keyword growth and search behavior patterns
+- Tracked rising and top-performing search topics
+- Created dynamic time-series trend visualizations
+- Delivered actionable insights from live search data
 
-### Skills Used:
+### 🔹 Skills & Technologies
 - Power BI
+- Python
+- API Integration
+- DAX
+- Power Query
+- Real-Time Data Processing
+- Data Analytics
+
+---
+
+# 🛒 Walmart Sales Dashboard
+
+Built a business-focused retail analytics dashboard to uncover sales performance, revenue trends, category insights, and regional profitability.
+
+### 🔹 Key Highlights
+- Designed executive-level KPI dashboards
+- Analyzed category-wise and region-wise sales performance
+- Identified seasonal revenue trends and business opportunities
+- Created interactive reports for strategic decision-making
+- Improved reporting clarity through modern dashboard design
+
+### 🔹 Skills & Technologies
+- Power BI
+- Sales Analytics
 - Data Cleaning
 - DAX
-- Sales Analytics
 - Dashboard Design
+- Business Reporting
 
 ---
 
-## 🏡 Airbnb Analytics Dashboard
+# 🏡 Airbnb Analytics Dashboard
 
-Performed analytical exploration on Airbnb listings to understand pricing trends and location-based performance.
+Performed analytical exploration on Airbnb listing data to uncover pricing patterns, occupancy trends, and location-based business insights.
 
-### Key Highlights:
-- Analyzed pricing variations across locations
-- Identified high-demand and high-performing areas
-- Explored occupancy and availability patterns
-- Developed interactive dashboards for better business insights
+### 🔹 Key Highlights
+- Analyzed pricing trends across multiple locations
+- Identified high-demand and profitable areas
+- Explored occupancy and availability behavior
+- Developed interactive dashboards for data storytelling
+- Enabled location-based performance analysis
 
-### Skills Used:
+### 🔹 Skills & Technologies
 - Power BI
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Business Analytics
+- Dashboard Development
 
 ---
 
-# 🛠️ Skills Demonstrated
+# 🛠️ Core Skills Demonstrated
 
 - Data Cleaning & Transformation
-- Data Visualization
 - Dashboard Development
 - Business Intelligence Reporting
+- Data Visualization & Storytelling
 - KPI Design & Development
 - Exploratory Data Analysis (EDA)
+- DAX Calculations
+- Power Query
+- API Integration
+- Real-Time Data Processing
 - Analytical Problem Solving
 - Python for Data Analytics
-- Power BI & DAX
+- Power BI Data Modeling
 
 ---
 
 # 📌 About Me
 
-I am a Data Analytics enthusiast passionate about transforming raw data into meaningful insights through visualization, analysis, and business intelligence solutions.
+I am a passionate Data Analytics enthusiast focused on transforming raw data into actionable business insights through modern visualization techniques, analytical reporting, and interactive dashboard development.
 
-Currently focused on strengthening my skills in:
+Currently strengthening expertise in:
 - Power BI
-- Python for Analytics
+- Python for Data Analytics
 - SQL
-- Data Visualization
 - Business Intelligence
+- Data Visualization
+- Real-Time Analytics
 
 ---
 
 # 📬 Let's Connect
 
-### 👨‍💻 Aman Jayesh Shah
+## 👨‍💻 Aman Jayesh Shah
 
 - LinkedIn: https://www.linkedin.com/in/aman-shah-546775255/
 - GitHub: https://github.com/Aman2925
@@ -105,4 +141,4 @@ Currently focused on strengthening my skills in:
 
 # ⭐ Support
 
-If you found these projects useful or insightful, consider giving the repositories a ⭐.
+If you found these projects valuable or insightful, consider giving the repositories a ⭐ to support the work.
