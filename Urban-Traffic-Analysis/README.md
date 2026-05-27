@@ -10,10 +10,6 @@ Dataset Link: https://drive.google.com/drive/folders/1ZpvxL9D_hp4oW0QGpe0Rf7ChVW
 
 --- 
 
-## 📂 Power BI Dashboard File
-
-PBIX File Link: https://drive.google.com/file/d/13jBAD8UnAwKT9CgfFrBnAZxGEmrJN6-2/view?usp=sharing
-
 # 📌 Project Overview
 
 The **Urban Traffic Analysis Dashboard** transforms raw transportation and traffic datasets into actionable insights using advanced data visualization techniques in Power BI.
