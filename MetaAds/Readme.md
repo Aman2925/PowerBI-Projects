@@ -100,7 +100,12 @@ This dashboard helps digital marketers and business stakeholders:
 ---
 
 # 📷 Dashboard Preview
-_Add dashboard screenshots here_
+<img width="1131" height="649" alt="Facebook" src="https://github.com/user-attachments/assets/6156d300-661d-47da-89c4-293da03390f6" />
+
+</br>
+
+<img width="1131" height="649" alt="Instagram" src="https://github.com/user-attachments/assets/d3a701d2-31d6-40c8-b5df-b1eda26d2dc6" />
+
 
 ---
 
