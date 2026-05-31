@@ -1,0 +1,34 @@
+[
+  {
+    "p_rel_url " :  "Aman2925/PowerBI-Projects/refs/heads/main/Walmart-Sales-Dashboard/dataset/Customer_Dim.csv",
+    "p_sink_folder " : "dataset_Customer",
+    "p_sink_file" : "dataset_Customer_Dim.csv"
+   }
+
+  {
+"p_rel_url " : "Aman2925/PowerBI-Projects/refs/heads/main/Walmart-Sales-Dashboard/dataset/Employee_Dim.csv",
+"p_sink_folder " : "dataset_Employee",
+"p_sink_file" : "dataset_Employee_Dim.csv"
+}
+
+
+{
+"p_rel_url " : "Aman2925/PowerBI-Projects/refs/heads/main/Walmart-Sales-Dashboard/dataset/Product_Dim.csv",
+"p_sink_folder " : "dataset_Product_Dim",
+"p_sink_file" : "dataset_Product_Dim.csv"
+}
+
+
+{
+"p_rel_url " : "Aman2925/PowerBI-Projects/refs/heads/main/Walmart-Sales-Dashboard/dataset/Customer_Dim.csv",
+"p_sink_folder " : "dataset_Customer",
+"p_sink_file" : "dataset_Customer_Dim.csv"
+}
+
+
+{
+"p_rel_url " : "Aman2925/PowerBI-Projects/refs/heads/main/Walmart-Sales-Dashboard/dataset/Store_Dim.csv",
+"p_sink_folder " : "dataset_Store_Dim",
+"p_sink_file" : "dataset_Store_Dim.csv"
+}
+]
